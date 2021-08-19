@@ -1,0 +1,37 @@
+.exit-button{
+    -fx-background-color: -fx-primary-red;
+    -fx-background-radius: 0;
+    -fx-text-fill: black;
+    -fx-font-size: 11px;
+    -fx-alignment: center;
+}
+
+.exit-button:hover{
+    -fx-background-color: -fx-secondary-red;
+}
+
+.title{
+    -fx-font-size: 40px;
+    -fx-text-fill: -fx-text-black;
+}
+
+.background{
+    -fx-background-color: -fx-secondary-background;
+    -fx-border-color: -fx-primary-bl;
+}
+
+.text{
+    -fx-text-fill: -fx-text-black;
+}
+
+.login-button{
+    -fx-background-color: -fx-primary-background;
+    -fx-text-fill: -fx-text-black;
+    -fx-border-color: #808080;
+    -fx-background-radius: 0;
+    -fx-alignment: center;
+}
+
+.login-button:hover{
+    -fx-background-color: -fx-secondary-background;
+}
